@@ -37,8 +37,8 @@ imap_server = "imap.feishu.cn"
 imap_port = 993
 
 # 登录邮箱
-username = "coffee.qiao@shaoke.com"
-password = "6GkV0CG4QEVBiYXW"
+username = ""
+password = ""
 mail = imaplib.IMAP4_SSL(imap_server, imap_port)
 mail.login(username, password)
 
