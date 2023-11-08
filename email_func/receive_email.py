@@ -6,8 +6,8 @@ import poplib
 # pop_port = 993
 #
 # # 登录邮箱
-# username = "coffee.qiao@shaoke.com"
-# password = "6GkV0CG4QEVBiYXW"
+# username = ""
+# password = ""
 # pop = poplib.POP3_SSL(pop_server, pop_port)
 # pop.user(username)
 # pop.pass_(password)
