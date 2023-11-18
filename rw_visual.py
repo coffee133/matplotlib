@@ -1,5 +1,6 @@
-
+import matplotlib
 import matplotlib.pyplot as plt
+matplotlib.use('TkAgg')
 
 from random_walk import RandomWalk
 while True:
